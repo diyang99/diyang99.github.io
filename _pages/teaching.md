@@ -29,7 +29,7 @@ nav_order: 5
       <img id="projimg" src="../assets/img/aurora.jpg" alt="graph" height="100%" width="100%"/>
       <div id='projinfo'>
         <b>Aurora & Van</b><br />
-        <i>Photography captured by me, March 4th, 2019. Yellowknife, Canada.</i><br />
+        <i>Captured by me, March 4th, 2019. Yellowknife, Canada.</i><br />
       </div>
     </div>
     <br />
@@ -37,7 +37,7 @@ nav_order: 5
       <img id="projimg" src="../assets/img/bench.jpg" alt="graph" height="100%" width="100%"/>
       <div id='projinfo'>
         <b>Lonely Bench</b><br />
-        <i>Photography captured by me, May 21th, 2022. Rocky Harbour, Newfoundland, Canada.</i><br />
+        <i>Captured by me, May 21th, 2022. Rocky Harbour, Newfoundland, Canada.</i><br />
       </div>
     </div>
   </div>
