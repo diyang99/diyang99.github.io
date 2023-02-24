@@ -30,7 +30,7 @@ I am currently a Master student at Dartmouth College, majoring in Computer Scien
 
 Before coming to Dartmouth, I received my Bachelor of Science with Joint Honors in Mathematics and Computer Science from McGill University. It is my fortune to work with Professor Paul Kry and Professor Jean-Christophe Nave on numerical method for physically-based simulation during my undergraduate studies.
 
-My research interests lie in computer graphics, especially on physically-based animation, around which I would like to explore more topics on computational physics, visual scene understanding and machine learning.
+My research interests lie in computer graphics, especially on physically-based animation, around which I would like to explore more topics on computational physics, visual scene understanding and machine learning.<a nonsmooth="1" href="../assets/pdf/cv20220224.pdf" class="">[CV]</a><br />
 
 ---
 <br />
