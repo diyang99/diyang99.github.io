@@ -30,8 +30,24 @@ I am currently a Master student at Dartmouth College, majoring in Computer Scien
 
 Before coming to Dartmouth, I received my Bachelor of Science with Joint Honors in Mathematics and Computer Science from McGill University. It is my fortune to work with Professor Paul Kry and Professor Jean-Christophe Nave on numerical method for physically-based simulation during my undergraduate studies.
 
-My research interests lie in computer graphics, especially on physically-based animation, around which I would like to explore more topics on computational physics, visual scene understanding and machine learning.<a nonsmooth="1" href="../assets/pdf/cv20220224.pdf" class="">[CV]</a><br />
+My research interests lie in computer graphics, especially on physically-based animation, around which I would like to explore more topics on computational physics, visual scene understanding and machine learning.<a nonsmooth="1" href="../assets/pdf/cv20230909.pdf" class="">[CV]</a><br />
 
+---
+<br />
+## **Publications**
+<p>
+  <div id='container'>
+    <div id='project'>
+      <!-- <img id="projimg" src="../assets/img/fftfire.png" alt="graph" height="103.5" width="184" align='right'/> -->
+      <div id='projinfo'>
+        <b>[Keywords: Modeling and Simulation, Implicit Neural Representation]</b><br />
+        <i>ACM Transactions on Graphics (SIGGRAPH ASIA 2023)</i><br />
+        One Paper Accepted! More information will be coming soon.
+        <!-- <a nonsmooth="1" href="../assets/pdf/fftfire_midreport.pdf" class="">[Midterm_Report]</a><br /> -->
+      </div>
+    </div>
+  </div>
+</p>
 ---
 <br />
 ## **Projects**
