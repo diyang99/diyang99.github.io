@@ -40,9 +40,9 @@ My research interests lie in computer graphics, especially on physically-based a
     <div id='project'>
       <!-- <img id="projimg" src="../assets/img/fftfire.png" alt="graph" height="103.5" width="184" align='right'/> -->
       <div id='projinfo'>
-        <b>[Keywords: Modeling and Simulation, Implicit Neural Representation]</b><br />
-        <i>ACM Transactions on Graphics (SIGGRAPH ASIA 2023)</i><br />
-        One Paper Accepted! More information will be coming soon.
+        <b>Fluid Simulation on Neural Flow Maps</b><br />
+        <i>ACM Transactions on Graphics (SIGGRAPH Asia 2023)</i><br />
+        Accepted. More information will be coming soon.
         <!-- <a nonsmooth="1" href="../assets/pdf/fftfire_midreport.pdf" class="">[Midterm_Report]</a><br /> -->
       </div>
     </div>
