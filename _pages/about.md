@@ -29,9 +29,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <!-- <img id="projimg" src="../assets/img/profile.jpg" alt="graph" height="30%" width="30%" align='left'/> -->
 I am currently a Master student at Dartmouth College, majoring in Computer Science with concentration in Digital Arts, advised by Professor Bo Zhu in Visual Computing Lab.
 
-Before coming to Dartmouth, I received my Bachelor of Science with First-Class Honors in Mathematics and Computer Science from McGill University. It is my fortune to work with Professor Paul Kry and Professor Jean-Christophe Nave on numerical method for physically-based simulation during my undergraduate studies.
+Before coming to Dartmouth, I received my Bachelor of Science with First-Class Honors in Mathematics and Computer Science from McGill University. It was my fortune to work with Professor Paul Kry and Professor Jean-Christophe Nave on numerical method for physics-based simulation during my undergraduate studies.
 
-My research interests lie in computer graphics, especially on physically-based animation, around which I would like to explore more topics on computational physics, machine learning and visual scene understanding.<a nonsmooth="1" href="../assets/pdf/cv20231201.pdf" class="">[CV]</a><br />
+My research interests lie in computer graphics, especially in physics-based animation, around which I would like to explore more topics on computational physics, machine learning and visual scene understanding.<a nonsmooth="1" href="../assets/pdf/cv20231202.pdf" class="">[CV]</a><br />
 
 ---
 <br />
