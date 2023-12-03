@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
  -->
 
 <!-- <img id="projimg" src="../assets/img/profile.jpg" alt="graph" height="30%" width="30%" align='left'/> -->
-I am currently a Master student at Dartmouth College, majoring in Computer Science with concentration in Digital Arts, advised by Professor Bo Zhu in Visual Computing Lab.
+I am currently a Master student at Dartmouth College, majoring in Computer Science with concentration in Digital Arts, advised by Professor <a nonsmooth="1" href="https://faculty.cc.gatech.edu/~bozhu/" class="">Bo Zhu</a> in Visual Computing Lab.
 
 Before coming to Dartmouth, I received my Bachelor of Science with First-Class Honors in Mathematics and Computer Science from McGill University. It was my fortune to work with Professor Paul Kry and Professor Jean-Christophe Nave on numerical method for physics-based simulation during my undergraduate studies.
 
@@ -70,7 +70,7 @@ My research interests lie in computer graphics, especially in physics-based anim
     </div>
     <br />
     <div id='project'>
-      <img id="projimg" src="../assets/img/reflection.png" alt="graph" height="110" width="200" align='right'/>
+      <img id="projimg" src="../assets/img/advrefl_teaser.jpg" alt="graph" height="130" width="200" align='right'/>
       <div id='projinfo'>
         <b>A Review of Second Order Advection-Reflection Fluid Solver</b><br />
         <i>Undergraduate Honors Research Project, advised by Prof. Paul Kry</i><br />
