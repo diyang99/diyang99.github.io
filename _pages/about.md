@@ -76,6 +76,7 @@ My research interests lie in computer graphics, especially in physics-based anim
         <i>Undergraduate Honors Research Project, advised by Prof. Paul Kry</i><br />
         Replicate the simulation result using advection-reflection method, and proceed to evaluate and compare the level of detail-preservation by implementing other classical fluid solvers previously employed.
         <a nonsmooth="1" href="../assets/img/reflection_video.webm" class="">[Video]</a><br />
+        <br />
       </div>
     </div>
   </div>
