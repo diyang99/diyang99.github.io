@@ -62,7 +62,7 @@ My research interests lie in computer graphics, especially in physics-based anim
     <div id='project'>
       <img id="projimg" src="../assets/img/fftteaser.jpg" alt="graph" height="110" width="200" align='right'/>
       <div id='projinfo'>
-        <b>A Fourier-Spectral Method For Fire and Smoke Simulation</b><br />
+        <b>A Fourier-Spectral Method For Fire and Flame Simulation</b><br />
         <i>Undergraduate Honors Research Project, advised by Prof. Jean-Christophe Nave</i><br />
         Implement numerical method for fire and smoke simulation based on Fourier spectral approximations of the Navier-Stokes equations, with volume penalization approach to add obstacles and flame sources.
         <a nonsmooth="1" href="../assets/pdf/fftfire_midreport.pdf" class="">[Midterm_Report]</a><br />
@@ -70,7 +70,7 @@ My research interests lie in computer graphics, especially in physics-based anim
     </div>
     <br />
     <div id='project'>
-      <img id="projimg" src="../assets/img/advrefl_teaser.jpg" alt="graph" height="130" width="200" align='right'/>
+      <img id="projimg" src="../assets/img/advrefl_teaser2.jpg" alt="graph" height="130" width="200" align='right'/>
       <div id='projinfo'>
         <b>A Review of Second Order Advection-Reflection Fluid Solver</b><br />
         <i>Undergraduate Honors Research Project, advised by Prof. Paul Kry</i><br />
