@@ -2,9 +2,9 @@
 layout: page
 permalink: /Gallery/
 title: Gallery
-description: Artworks, Photography, and Misc.
+description: Artworks, Photography, Misc.
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 <p>
