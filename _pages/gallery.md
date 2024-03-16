@@ -1,10 +1,10 @@
 ---
-layout: page
-permalink: /Gallery/
-title: Gallery
-description: Artworks, Photography, Misc.
-nav: true
-nav_order: 2
+# layout: page
+# permalink: /Gallery/
+# title: Gallery
+# description: Artworks, Photography, Misc.
+# nav: true
+# nav_order: 2
 ---
 
 <p>
