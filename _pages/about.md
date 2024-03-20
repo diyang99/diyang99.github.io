@@ -31,7 +31,7 @@ I am currently a Master student at Dartmouth College, majoring in Computer Scien
 
 Before coming to Dartmouth, I received my Bachelor of Science with First-Class Honors in Mathematics and Computer Science from McGill University. It was my fortune to work with Professor <a nonsmooth="1" href="https://www.cs.mcgill.ca/~kry/" class="">Paul Kry</a> and Professor <a nonsmooth="1" href="https://www.math.mcgill.ca/jcnave/" class="">Jean-Christophe Nave</a> on numerical method for physics-based simulation during my undergraduate studies.
 
-My research interests lie in computer graphics, especially in physics-based animation, around which I would like to explore more topics on computational physics, machine learning and visual scene understanding.<a nonsmooth="1" href="../assets/pdf/cv20240307.pdf" class="">[CV]</a><br />
+My research interests lie in <b>computer graphics</b>, especially in physics-based animation, around which I would like to explore more topics on computational physics, machine learning and visual scene understanding.<a nonsmooth="1" href="../assets/pdf/cv20240320.pdf" class="">[CV]</a><br />
 
 ---
 <br />
@@ -56,7 +56,7 @@ My research interests lie in computer graphics, especially in physics-based anim
 </p>
 ---
 <br />
-## **Academic Projects**
+## **Research Projects**
 <p>
   <div id='container'>
     <div id='project'>
@@ -83,7 +83,34 @@ My research interests lie in computer graphics, especially in physics-based anim
 </p>
 ---
 <br />
-## **Technical Art Projects**
+## **Selected Coursework**
+<p>
+  <div id='container'>
+    <div id='project'>
+      <img id="projimg" src="../assets/img/showcase.png" alt="graph" height="110" width="200" align='right'/>
+      <div id='projinfo'>
+        <b>A Monte-Carlo Renderer</b><br />
+        <i>CS287 Rendering Algorithm, Dartmouth College</i><br />
+        A monte-carlo ray tracer which supports features including: volumetric path tracing, photon mapping, microfacet anisotropic BRDF, environment map with importance sampling, etc.
+        <a nonsmooth="1" href="../assets/pdf/cs87/reports/final_project/report.html" class="">[Final_Report]</a><br />
+      </div>
+    </div>
+    <br />
+    <div id='project'>
+      <img id="projimg" src="../assets/img/557fracture.jpg" alt="graph" height="110" width="200" align='right'/>
+      <div id='projinfo'>
+        <b>Collections of Mini Physically-Based Animations</b><br />
+        <i>Comp557/559 Computer Graphics/Animation, McGill University</i><br />
+        Mini projects on computer graphics and physically-based animation including: collision system, finite-element fracture simulation, geodesics in heat, depth-of-field camera, glsl rigid-body transformations, etc.
+        <a nonsmooth="1" href="../assets/img/557demo.webm" class="">[Video]</a><br />
+      </div>
+    </div>
+  </div>
+  <br>
+</p>
+---
+<br />
+## **GameDev Concepts**
 <p>
   <div id='container'>
     <div id='project'>
@@ -123,30 +150,5 @@ My research interests lie in computer graphics, especially in physics-based anim
     </div>
   </div>
 </p>
----
-<br />
-## **Selected Coursework**
-<p>
-  <div id='container'>
-    <div id='project'>
-      <img id="projimg" src="../assets/img/showcase.png" alt="graph" height="110" width="200" align='right'/>
-      <div id='projinfo'>
-        <b>A Monte-Carlo Ray Tracer</b><br />
-        <i>CS287 Rendering Algorithm, Dartmouth College</i><br />
-        A monte-carlo ray tracer which supports features including: volumetric path tracing, photon mapping, microfacet anisotropic BRDF, environment map with importance sampling, etc.
-        <a nonsmooth="1" href="../assets/pdf/cs87/reports/final_project/report.html" class="">[Final_Report]</a><br />
-      </div>
-    </div>
-    <br />
-    <div id='project'>
-      <img id="projimg" src="../assets/img/557fracture.jpg" alt="graph" height="110" width="200" align='right'/>
-      <div id='projinfo'>
-        <b>Collections of Mini Physically-Based Animations</b><br />
-        <i>Comp557/559 Computer Graphics/Animation, McGill University</i><br />
-        Mini projects on computer graphics and physically-based animation including: collision system, finite-element fracture simulation, geodesics in heat, depth-of-field camera, glsl rigid-body transformations, etc.
-        <a nonsmooth="1" href="../assets/img/557demo.webm" class="">[Video]</a><br />
-      </div>
-    </div>
-  </div>
-</p>
+
 

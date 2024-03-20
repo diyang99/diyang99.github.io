@@ -1,8 +1,8 @@
 ---
-layout: techart-layout
-permalink: /TechArt/
-title: TechArt
-description: Game Development, AR/VR, Unity, C#. <br /> You are kindly invited to review my portfolio.
+layout: gamedev-layout
+permalink: /GameDev/
+title: GameDev
+description: Game Development, Unity, C#, AR/VR, TechArt. <br /> You are kindly invited to review my portfolio.
 nav: true
 nav_order: 1
 ---
