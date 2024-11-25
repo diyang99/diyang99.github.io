@@ -56,33 +56,6 @@ My research interests lie in computer graphics, where I am eager to integrate le
 </p>
 ---
 <br />
-## **Research Projects**
-<p>
-  <div id='container'>
-    <div id='project'>
-      <img id="projimg" src="../assets/img/fftteaser.jpg" alt="graph" height="110" width="200" align='right'/>
-      <div id='projinfo'>
-        <b>A Fourier-Spectral Method For Fire and Flame Simulation</b><br />
-        <i>Undergraduate Honors Research Project, advised by Prof. Jean-Christophe Nave</i><br />
-        Implement numerical method for fire and smoke simulation based on Fourier spectral approximations of the Navier-Stokes equations, with volume penalization approach to add obstacles and flame sources.
-        <a nonsmooth="1" href="../assets/pdf/fftfire_midreport.pdf" class="">[Midterm Report]</a><br />
-      </div>
-    </div>
-    <br />
-    <div id='project'>
-      <img id="projimg" src="../assets/img/advrefl_teaser2.jpg" alt="graph" height="130" width="200" align='right'/>
-      <div id='projinfo'>
-        <b>A Review of Second Order Advection-Reflection Fluid Solver</b><br />
-        <i>Undergraduate Honors Research Project, advised by Prof. Paul Kry</i><br />
-        Replicate the simulation result using advection-reflection method, and proceed to evaluate and compare the level of detail-preservation by implementing other classical fluid solvers previously employed.
-        <a nonsmooth="1" href="../assets/img/reflection_video.webm" class="">[Video]</a><br />
-        <br />
-      </div>
-    </div>
-  </div>
-</p>
----
-<br />
 ## **GameDev Concepts**
 <p>
   <div id='container'>
