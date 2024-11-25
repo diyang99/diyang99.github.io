@@ -2,7 +2,7 @@
 layout: gamedev-layout
 permalink: /GameDev/
 title: GameDev
-description: Game Development, Unity, C#, AR/VR, TechArt. <br /> You are kindly invited to review my portfolio.
+description: Game Development, Unity, AR/VR, TechArt. <br /> You are kindly invited to review my portfolio.
 nav: true
 nav_order: 1
 ---

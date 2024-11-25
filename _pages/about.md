@@ -27,11 +27,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
  -->
 
 <!-- <img id="projimg" src="../assets/img/profile.jpg" alt="graph" height="30%" width="30%" align='left'/> -->
-I am currently a Master student at Dartmouth College, majoring in Computer Science with concentration in Digital Arts, advised by Professor <a nonsmooth="1" href="https://faculty.cc.gatech.edu/~bozhu/" class="">Bo Zhu</a> in Visual Computing Lab.
+I am currently a Master student at Dartmouth College, majoring in Computer Science with concentration in Digital Arts, advised by Professor <a nonsmooth="1" href="https://faculty.cc.gatech.edu/~bozhu/" class="">Bo Zhu</a>.
 
-Before coming to Dartmouth, I received my Bachelor of Science with First-Class Honors in Mathematics and Computer Science from McGill University. It was my fortune to work with Professor <a nonsmooth="1" href="https://www.cs.mcgill.ca/~kry/" class="">Paul Kry</a> and Professor <a nonsmooth="1" href="https://www.math.mcgill.ca/jcnave/" class="">Jean-Christophe Nave</a> on numerical method for physics-based simulation during my undergraduate studies.
+Before coming to Dartmouth, I received my Bachelor of Science with First-Class Honors in Mathematics and Computer Science from McGill University. It was my fortune to work with Professor <a nonsmooth="1" href="https://www.cs.mcgill.ca/~kry/" class="">Paul Kry</a> and Professor <a nonsmooth="1" href="https://www.math.mcgill.ca/jcnave/" class="">Jean-Christophe Nave</a> on numerical methods for physics-based fluid simulation during my undergraduate studies.
 
-My research interests lie in <b>computer graphics</b>, especially in physics-based animation, around which I would like to explore more topics on computational physics, machine learning and visual scene understanding.<a nonsmooth="1" href="../assets/pdf/cv20240320.pdf" class="">[CV]</a><br />
+My research interests lie in computer graphics, where I am eager to integrate learning and neural technologies to explore more topics, particularly around physics-based animation, visual scene understanding, and computational design.<a nonsmooth="1" href="../assets/pdf/cv20241120.pdf" class="">[CV]</a><br />
 
 ---
 <br />
@@ -80,33 +80,6 @@ My research interests lie in <b>computer graphics</b>, especially in physics-bas
       </div>
     </div>
   </div>
-</p>
----
-<br />
-## **Selected Coursework**
-<p>
-  <div id='container'>
-    <div id='project'>
-      <img id="projimg" src="../assets/img/showcase.png" alt="graph" height="110" width="200" align='right'/>
-      <div id='projinfo'>
-        <b>A Monte-Carlo Renderer</b><br />
-        <i>CS287 Rendering Algorithm, Dartmouth College</i><br />
-        A monte-carlo ray tracer which supports features including: volumetric path tracing, photon mapping, microfacet anisotropic BRDF, environment map with importance sampling, etc.
-        <a nonsmooth="1" href="../assets/pdf/cs87/reports/final_project/report.html" class="">[Final_Report]</a><br />
-      </div>
-    </div>
-    <br />
-    <div id='project'>
-      <img id="projimg" src="../assets/img/557fracture.jpg" alt="graph" height="110" width="200" align='right'/>
-      <div id='projinfo'>
-        <b>Collections of Mini Physically-Based Animations</b><br />
-        <i>Comp557/559 Computer Graphics/Animation, McGill University</i><br />
-        Mini projects on computer graphics and physically-based animation including: collision system, finite-element fracture simulation, geodesics in heat, depth-of-field camera, glsl rigid-body transformations, etc.
-        <a nonsmooth="1" href="../assets/img/557demo.webm" class="">[Video]</a><br />
-      </div>
-    </div>
-  </div>
-  <br>
 </p>
 ---
 <br />
